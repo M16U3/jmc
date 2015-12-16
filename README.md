@@ -52,6 +52,10 @@ http://central.maven.org/maven2/org/json/json/20151123/json-20151123.jar
 ```
 http://central.maven.org/maven2/org/jsoup/jsoup/1.8.3/jsoup-1.8.3.jar
 ```
+- JAVA
+```
+Jdk 1.7 o 1.8
+```
 
 
 ### Autores:
